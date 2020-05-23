@@ -34,8 +34,13 @@ const questions = [
             name: "license",
             choices: [
                 "MIT",
-                "AGPL",
-                "BSD"
+                "Apache 2.0",
+                "BSD 203",
+                "IPL 201",
+                "MPL 202",
+                "Zlib",
+                "GPL v3",
+                "Eclipse 201",
             ]
         },
         {
