@@ -75,8 +75,8 @@ function init() {
     .then(data => {
         return newMarkdown(data);
     })
-    .then(pageMarkdown => {
-        return writeToFile(pageMarkdown);
+    .then(setMarkdown => {
+        return writeToFile(setMarkdown);
     });
 };
 

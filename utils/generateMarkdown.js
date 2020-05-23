@@ -29,9 +29,6 @@ ${data.test}
 ## Questions
 * ${data.username}
 * ${data.email}
-## Site Links
-* [Deployed Link](#)
-* [GitHub Repository](#)
 `;
 }
 
